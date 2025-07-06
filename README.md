@@ -2,7 +2,6 @@
 
 **Video Insight AI** is a powerful Streamlit-based web application that allows users to analyze and summarize video content from **YouTube**, **Google Drive**, or **local uploads**. It uses **Google Gemini (Generative AI)** to perform transcription, translation, video analysis, and interactive Q&A.
 
----
 
 ## ✨ Features
 
